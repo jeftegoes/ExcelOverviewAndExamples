@@ -49,7 +49,7 @@
   - **Multiplication and Division:** Multiplication (\*) and division (/) are evaluated next, from left to right.
   - **Addition and Subtraction:** Addition (+) and subtraction (-) are evaluated last, also from left to right.
 
-[Example](Examples/Order%20of%20Operation.xlsx)
+[Example](Examples/OrderOfOperation.xlsx)
 
 # 3. Frequently used shortcuts
 
